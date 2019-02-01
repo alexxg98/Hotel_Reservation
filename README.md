@@ -6,6 +6,4 @@ Using HTML, CSS, and JavaScript/jQuery, create a simulation of of a hotel reserv
 
 Not yet functional.
 
-View this project via my portfolio: https://alexxg98.github.io/
-
-or using this link: https://alexxg98.github.io/subpages/hotelProject/index.html
+View this project using this link: https://alexxg98.github.io/subpages/hotelProject/
